@@ -1,4 +1,5 @@
-# Digital-Analytics-Project-E-Commerce-Company
+# Digital-Analytics-Project-E-Commerce-Company (Selling Stuffed Animal Toys)
+<img width="744" height="460" alt="image" src="https://github.com/user-attachments/assets/bf76b494-4096-45e2-a89f-544a5b865b5f" />
 
 ## BUSINESS CONTEXT/PROBLEM:
 The client is a newly launched e-commerce retail startup that sells stuffed animal toys. 
@@ -49,7 +50,13 @@ used by Google Analytics to track paid marketing activity.
 
 ## TECHNOLOGY STACK USED:
 ### 1. MS EXCEL 
-      for Preliminary Data Auditing & Chart Creation
+      For Preliminary Data Auditing & Chart Creation
       Reason : User-friendly interface with powerful functions for quick analysis and basic charts.
 
+### 2. MICROSOFT SQL SERVER
+      For Data extraction, Transformation and Analysis
+      Reason : Efficient data retrieval and management, supporting complex queries and maintaining data integrity.
 
+### 3. MICROSOFT POWER BI
+      For Dashboard Preparation
+      Reason : Advanced visualization capabilities and seamless integration with various data sources for dynamic reporting.
