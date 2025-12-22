@@ -47,4 +47,9 @@ used by Google Analytics to track paid marketing activity.
 <img width="1231" height="623" alt="image" src="https://github.com/user-attachments/assets/d34eab1a-1884-4b71-8ecb-5e0544944582" />
 
 
+## TECHNOLOGY STACK USED:
+### 1. MS EXCEL 
+      for Preliminary Data Auditing & Chart Creation
+      Reason : User-friendly interface with powerful functions for quick analysis and basic charts.
+
 
