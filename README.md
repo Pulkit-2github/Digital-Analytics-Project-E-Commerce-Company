@@ -48,6 +48,9 @@ used by Google Analytics to track paid marketing activity.
 <img width="1231" height="623" alt="image" src="https://github.com/user-attachments/assets/d34eab1a-1884-4b71-8ecb-5e0544944582" />
 
 
+## POWER BI DASHBOARDS:
+      https://drive.google.com/file/d/1bhhKFfARWTQ_yKmZY7XmnUVWJ9-sYMX0/view?usp=drive_link
+
 ## TECHNOLOGY STACK USED:
 ### 1. MS EXCEL 
       For Preliminary Data Auditing & Chart Creation
