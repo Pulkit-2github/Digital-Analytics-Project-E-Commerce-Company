@@ -49,7 +49,7 @@ used by Google Analytics to track paid marketing activity.
 
 
 ## POWER BI DASHBOARDS:
-     [3 POWER BI DASHBOARDS] (https://drive.google.com/file/d/1bhhKFfARWTQ_yKmZY7XmnUVWJ9-sYMX0/view?usp=drive_link)
+[3 POWER BI DASHBOARDS] (https://drive.google.com/file/d/1bhhKFfARWTQ_yKmZY7XmnUVWJ9-sYMX0/view?usp=drive_link)
 
 ## TECHNOLOGY STACK USED:
 ### 1. MS EXCEL 
